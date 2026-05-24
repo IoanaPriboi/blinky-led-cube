@@ -1,0 +1,13 @@
+# PlatformIO
+.pio/
+
+# VS Code
+.vscode/
+
+# Compiled output
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.lst
