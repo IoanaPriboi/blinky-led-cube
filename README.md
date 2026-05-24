@@ -9,7 +9,7 @@ Cub LED 4x4x4 controlat de un Arduino Nano V3 (ATmega328P), programat in C pur, 
 - Plane Scan - un strat complet se aprinde si se deplaseaza de jos in sus
 - Expand - LED-urile se extind din centrul cubului spre exterior si se contracta
 - Spiral - coloanele se aprind in spirala din interior spre exterior
-- Firework - racheta urca, explodeaza si scanteiaza, sincronizat cu sunete din buzzer
+- Firework - racheta urca, explodeaza si lasa scantei, sincronizat cu sunete din buzzer
 - Sparkle - LED-uri aleatoare clipesc haotic pe tot cubul
 
 **Modul Timer** - countdown configurabil (10s - 99min 50s), cu afisare vizuala pe cub si alerta buzzer la expirare.
